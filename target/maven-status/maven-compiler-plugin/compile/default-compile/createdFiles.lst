@@ -1,0 +1,13 @@
+TBMarketing\TbMarketingController.class
+TBMarketing\TbMarketingApplication.class
+TBMarketing\TbMarketingRepository.class
+TBMarketing\Cancelled.class
+TBMarketing\TbMarketing.class
+TBMarketing\config\kafka\KafkaProcessor.class
+TBMarketing\AbstractEvent.class
+TBMarketing\TbPurchased.class
+TBMarketing\AbstractEvent$1.class
+TBMarketing\Purchased.class
+TBMarketing\TbdmSent.class
+TBMarketing\ReceiverChanged.class
+TBMarketing\PolicyHandler.class
